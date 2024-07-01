@@ -1,0 +1,99 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  margin: 35px;
+}
+
+.card-1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 20vh;
+  background-size: cover;
+  padding: 15px;
+}
+
+.heading {
+  color: #475569;
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.para-ele {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.span-ele {
+  color: #0b69ff;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.forms-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-element {
+  background-color: white;
+  height: 60vh;
+  width: 25vw;
+  border: 1px solid #cbd5e1;
+  margin: 35px;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.head {
+  color: #475569;
+  font-size: 20px;
+}
+
+.input-ele {
+  width: 15vw;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button-ele {
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px;
+  width: 5vw;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.two-cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.history-card {
+  background-color: white;
+  height: 60vh;
+  width: 25vw;
+  border: 1px solid #cbd5e1;
+  border-radius: 15px;
+  margin: 35px;
+  padding: 25px;
+}
+.history-head {
+  color: #475569;
+  font-size: 20px;
+}
+
+.ul-list {
+  list-style-type: none;
+}
+
+.list-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

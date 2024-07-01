@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.transaction-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button-ele {
+  width: 3vw;
+  border: none;
+}
+
+.button {
+  background-color: white;
+  border: none;
+}

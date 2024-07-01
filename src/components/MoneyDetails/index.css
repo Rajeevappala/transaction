@@ -1,0 +1,53 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.card-container {
+  background-color: #cffafe;
+  height: 20vh;
+  width: 20vw;
+  margin: 30px;
+  border: 1px solid #06b6d4;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.image {
+  width: 6vw;
+  padding-top: 5px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+}
+
+.income-head {
+  font-size: 15px;
+  color: #475569;
+  font-weight: 700;
+  padding-left: 10px;
+}
+
+.card-ele {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-container2 {
+  background-color: #ede9fe;
+  height: 20vh;
+  width: 20vw;
+  margin: 30px;
+  border: 1px solid #7c3aed;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.card-container3 {
+  background-color: #ecfccb;
+  height: 20vh;
+  width: 20vw;
+  margin: 30px;
+  border: 1px solid #84cc16;
+  padding: 10px;
+  border-radius: 10px;
+}
